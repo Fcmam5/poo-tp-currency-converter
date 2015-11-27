@@ -275,7 +275,7 @@ public class EuroToDinarConverter extends javax.swing.JFrame {
         jTextArea1.setText("Done By Fortas Abdeldjalil\n" +
                             "Source code can be found at:\n" +
                             "\n" +
-                            "WWWWWWW");
+                            "https://github.com/Fcmam5/poo-tp-currency-converter");
         jDialog1.setSize(500,500);
         
     }//GEN-LAST:event_jMenuItem2ActionPerformed
